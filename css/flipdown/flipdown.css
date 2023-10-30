@@ -42,6 +42,7 @@
 /* Rotor group headings */
 .flipdown.flipdown__theme-light .rotor-group-heading:before {
   color: #EEEEEE;
+  font-size: 0.7em; 
 }
 /* Delimeters */
 .flipdown.flipdown__theme-light .rotor-group:nth-child(n+2):nth-child(-n+3):before,
